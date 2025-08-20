@@ -195,11 +195,11 @@ def step1one():
 
 	
 	if n==8:
-		image1=Image.open('./data250802re/250802_173807.jpg')
-		image2=Image.open('./data250802re/250802_173808.jpg')
-		image3=Image.open('./data250802re/250802_173855.jpg')
-		image4=Image.open('./data250802re/250802_173903.jpg')
-		image5=Image.open('./data250802re/250802_173905.jpg')
+		image0=Image.open('./data250802re/250802_173807.jpg')
+		image1=Image.open('./data250802re/250802_173808.jpg')
+		image2=Image.open('./data250802re/250802_173855.jpg')
+		image3=Image.open('./data250802re/250802_173903.jpg')
+		image4=Image.open('./data250802re/250802_173905.jpg')
 		name00='250802_173807.jpg','250802_173808.jpg','250802_173855.jpg','250802_173903.jpg','250802_173905.jpg'
 
 
