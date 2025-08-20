@@ -765,6 +765,22 @@ def step2one():
 		name21='250802_194244.jpg','250802_194256.jpg','250802_194306.jpg','250802_194314.jpg','250805_074401.jpg'
 
 	
+	if n2c==17:
+		image20=Image.open('./data250802re/250802_194244.jpg')
+		image21=Image.open('./data250802re/250805_074401.jpg')
+		image22=Image.open('./data250802re/250802_194306.jpg')
+		image23=Image.open('./data250802re/250805_074401.jpg')
+		image24=Image.open('./data250802re/250802_194321.jpg')
+
+		name20='250802_194244.jpg','250805_074401.jpg','250802_194306.jpg','250805_074401.jpg','250802_194321.jpg'
+
+		image25=Image.open('./data250802re/250805_074401.jpg')
+		image26=Image.open('./data250802re/250802_194256.jpg')
+		image27=Image.open('./data250802re/250805_074401.jpg')
+		image28=Image.open('./data250802re/250802_194314.jpg')
+		image29=Image.open('./data250802re/250805_074401.jpg')
+
+		name21='250805_074401.jpg','250802_194256.jpg','250805_074401.jpg','250802_194314.jpg','250805_074401.jpg'
 	
 	
 	
