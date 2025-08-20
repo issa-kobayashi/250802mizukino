@@ -469,20 +469,20 @@ def step2one():
 	
 	time.sleep(0.1)
 	if n2c==0 :
-		image20=Image.open('./data250802re/241103-11-01'250802_160649.jpg') 
-		image21=Image.open('./data250802re/241103-11-02'250802_160653.jpg') 
-		image22=Image.open('./data250802re/241103-11-03'250802_160758.jpg') 
-		image3=Image.open('./data250802re/241103-11-04'250802_160801.jpg') 
-		image4=Image.open('./data250802re/241103-11-04'250802_160804.jpg')
+		image20=Image.open('./data250802re/250802_160649.jpg') 
+		image21=Image.open('./data250802re/250802_160653.jpg') 
+		image22=Image.open('./data250802re/250802_160758.jpg') 
+		image23=Image.open('./data250802re/250802_160801.jpg') 
+		image24=Image.open('./data250802re/250802_160804.jpg')
 		name00='250802_160649.jpg','250802_160653.jpg','250802_160758.jpg','250802_160801.jpg','250802_160804.jpg'
 
 		     
 	
-		image5=Image.open('./data250802re/250802_160809.jpg') 
-		image6=Image.open('./data250802re/250802_160830.jpg') 
-		image7=Image.open('./data250802re/250802_160832.jpg') 
-		image8=Image.open('./data250802re/250802_160834.jpg')
-		image9=Image.open('./data250802re/250802_160837.jpg')
+		image25=Image.open('./data250802re/250802_160809.jpg') 
+		image26=Image.open('./data250802re/250802_160830.jpg') 
+		image27=Image.open('./data250802re/250802_160832.jpg') 
+		image28=Image.open('./data250802re/250802_160834.jpg')
+		image29=Image.open('./data250802re/250802_160837.jpg')
 		name01='250802_160809.jpg','250802_160830.jpg','250802_160832.jpg','250802_160834.jpg','250802_160837.jpg'
 		
 
@@ -490,16 +490,16 @@ def step2one():
 		image20=Image.open('./data250802re/250802_160838.jpg')
 		image21=Image.open('./data250802re/250802_160840.jpg') 
 		image22=Image.open('./data250802re/250802_160843.jpg') 
-		image3=Image.open('./data250802re/250802_160845.jpg')
-		image4=Image.open('./data250802re/250802_160851.jpg')     
+		image23=Image.open('./data250802re/250802_160845.jpg')
+		image24=Image.open('./data250802re/250802_160851.jpg')     
 		name00='250802_160838.jpg','250802_160840.jpg','250802_160843.jpg','250802_160845.jpg','250802_160851.jpg'
 		
 
-		image5=Image.open('./data250802re/250802_160854.jpg')
-		image6=Image.open('./data250802re/250802_160856.jpg') 
-		image7=Image.open('./data250802re/250802_160905.jpg') 
-		image8=Image.open('./data250802re/250802_160919.jpg')  
-		image9=Image.open('./data250802re/250802_160920.jpg')
+		image25=Image.open('./data250802re/250802_160854.jpg')
+		image26=Image.open('./data250802re/250802_160856.jpg') 
+		image27=Image.open('./data250802re/250802_160905.jpg') 
+		image28=Image.open('./data250802re/250802_160919.jpg')  
+		image29=Image.open('./data250802re/250802_160920.jpg')
 		name01='250802_160854.jpg','250802_160856.jpg','250802_160905.jpg','250802_160919.jpg','250802_162920.jpg'
 		
 
@@ -507,18 +507,18 @@ def step2one():
 		image20=Image.open('./data250802re/250802_162929.jpg')
 		image21=Image.open('./data250802re/250802_162933.jpg') 
 		image22=Image.open('./data250802re/250802_163021.jpg') 
-		image3=Image.open('./data250802re/250802_163023.jpg') 
-		image4=Image.open('./data250802re/250802_163112.jpg')  
+		image23=Image.open('./data250802re/250802_163023.jpg') 
+		image24=Image.open('./data250802re/250802_163112.jpg')  
 		name00='250802_162929.jpg','250802_162933.jpg','250802_163021.jpg','250802_163023.jpg','250802_163112.jpg'
 		
 	
 	
 	
-		image5=Image.open('./data250802re/250802_163127.jpg')
-		image6=Image.open('./data250802re/250802_163152.jpg') 
-		image7=Image.open('./data250802re/250802_163155.jpg') 
-		image8=Image.open('./data250802re/250802_164551.jpg')
-		image9=Image.open('./data250802re/250802_164554.jpg')   
+		image25=Image.open('./data250802re/250802_163127.jpg')
+		image26=Image.open('./data250802re/250802_163152.jpg') 
+		image27=Image.open('./data250802re/250802_163155.jpg') 
+		image28=Image.open('./data250802re/250802_164551.jpg')
+		image29=Image.open('./data250802re/250802_164554.jpg')   
 		name01='250802_163127.jpg','250802_163152.jpg','250802_163155.jpg','250802_164551.jpg','250802_164554.jpg'
 	
 	
@@ -526,17 +526,17 @@ def step2one():
 		image20=Image.open('./data250802re/250802_164626.jpg')
 		image21=Image.open('./data250802re/250802_165645.jpg') 
 		image22=Image.open('./data250802re/250802_165649.jpg') 
-		image3=Image.open('./data250802re/250802_165653.jpg')
-		image4=Image.open('./data250802re/250802_165703.jpg')   
+		image23=Image.open('./data250802re/250802_165653.jpg')
+		image24=Image.open('./data250802re/250802_165703.jpg')   
 		name00='250802_164626.jpg','250802_165645.jpg','250802_165649.jpg','250802_165653.jpg','250802_165703.jpg'
 	
 	
 
-		image5=Image.open('./data250802re/250802_165750.jpg')
-		image6=Image.open('./data250802re/250802_165815.jpg') 
-		image7=Image.open('./data250802re/250802_165827.jpg') 
-		image8=Image.open('./data250802re/250802_165934.jpg')
-		image9=Image.open('./data250802re/250802_165946.jpg')   
+		image25=Image.open('./data250802re/250802_165750.jpg')
+		image26=Image.open('./data250802re/250802_165815.jpg') 
+		image27=Image.open('./data250802re/250802_165827.jpg') 
+		image28=Image.open('./data250802re/250802_165934.jpg')
+		image29=Image.open('./data250802re/250802_165946.jpg')   
 		name01='250802_165750.jpg','250802_16815.jpg','250802_165827.jpg','250802_165934.jpg','250802_165946.jpg'
 	
 	
@@ -544,16 +544,16 @@ def step2one():
 		image20=Image.open('./data250802re/250802_165949.jpg')
 		image21=Image.open('./data250802re/250802_165951.jpg') 
 		image22=Image.open('./data250802re/250802_165956.jpg') 
-		image3=Image.open('./data250802re/250802_170001.jpg')
-		image4=Image.open('./data250802re/250802_170004.jpg')   
+		image23=Image.open('./data250802re/250802_170001.jpg')
+		image24=Image.open('./data250802re/250802_170004.jpg')   
 		name00='250802_165949.jpg','250802_165951.jpg','250802_165956.jpg','250802_170001.jpg','250802_170004.jpg'
 	
 	
-		image5=Image.open('./data250802re/250802_170036.jpg')
-		image6=Image.open('./data250802re/250802_170038.jpg') 
-		image7=Image.open('./data250802re/250802_170144.jpg') 
-		image8=Image.open('./data250802re/250802_170146.jpg')
-		image9=Image.open('./data250802re/250802_170148.jpg')   
+		image25=Image.open('./data250802re/250802_170036.jpg')
+		image26=Image.open('./data250802re/250802_170038.jpg') 
+		image27=Image.open('./data250802re/250802_170144.jpg') 
+		image28=Image.open('./data250802re/250802_170146.jpg')
+		image29=Image.open('./data250802re/250802_170148.jpg')   
 		name01='250802_165949.jpg','250802_165951.jpg','250802_165956.jpg','250802_170001.jpg','250802_170004.jpg'
 	
 	
@@ -561,15 +561,15 @@ def step2one():
 		image20=Image.open('./data250802re/250802_170151.jpg')
 		image21=Image.open('./data250802re/250802_170203.jpg')
 		image22=Image.open('./data250802re/250802_171310.jpg')
-		image3=Image.open('./data250802re/250802_171320.jpg')
-		image4=Image.open('./data250802re/250802_171324.jpg')
+		image23=Image.open('./data250802re/250802_171320.jpg')
+		image24=Image.open('./data250802re/250802_171324.jpg')
 		name00='250802_170151.jpg','250802_170203.jpg','250802_171310.jpg','250802_171320.jpg','250802_171324.jpg'
 
-		image21=Image.open('./data250802re/250802_171341.jpg')
-		image2=Image.open('./data250802re/250802_171404.jpg')
-		image3=Image.open('./data250802re/250802_171405.jpg')
-		image4=Image.open('./data250802re/250802_171514.jpg')
-		image5=Image.open('./data250802re/250802_171516.jpg')
+		image25=Image.open('./data250802re/250802_171341.jpg')
+		image26=Image.open('./data250802re/250802_171404.jpg')
+		image27=Image.open('./data250802re/250802_171405.jpg')
+		image28=Image.open('./data250802re/250802_171514.jpg')
+		image29=Image.open('./data250802re/250802_171516.jpg')
 		name01='250802_171341.jpg','250802_171404.jpg	','250802_171405.jpg','250802_171514.jpg','250802_171516.jpg'
 
 		
@@ -760,9 +760,9 @@ def step2one():
 		image26=Image.open('./data250802re/250802_194256.jpg')
 		image27=Image.open('./data250802re/250802_194306.jpg')
 		image28=Image.open('./data250802re/250802_194314.jpg')
-		image29=Image.open('./data250802re/250802_194321.jpg')
+		image29=Image.open('./data250802re/250805_074401.jpg')
 
-		name01='250802_194244.jpg','250802_194256.jpg','250802_194306.jpg','250802_194314.jpg','250802_194321.jpg'
+		name01='250802_194244.jpg','250802_194256.jpg','250802_194306.jpg','250802_194314.jpg','250805_074401.jpg'
 
 	
 	
