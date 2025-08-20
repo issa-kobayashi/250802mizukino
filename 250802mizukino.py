@@ -82,8 +82,8 @@ def step1one():
 		image5=Image.open('./data250802re/250802_160854.jpg')
 		image6=Image.open('./data250802re/250802_160856.jpg') 
 		image7=Image.open('./data250802re/250802_160905.jpg') 
-		image8=Image.open('./data250802re/250802_160919.jpg')  
-		image9=Image.open('./data250802re/250802_160920.jpg')
+		image8=Image.open('./data250802re/250802_162919.jpg')  
+		image9=Image.open('./data250802re/250802_162920.jpg')
 		name01='250802_160854.jpg','250802_160856.jpg','250802_160905.jpg','250802_160919.jpg','250802_162920.jpg'
 		
 
@@ -498,8 +498,8 @@ def step2one():
 		image25=Image.open('./data250802re/250802_160854.jpg')
 		image26=Image.open('./data250802re/250802_160856.jpg') 
 		image27=Image.open('./data250802re/250802_160905.jpg') 
-		image28=Image.open('./data250802re/250802_160919.jpg')  
-		image29=Image.open('./data250802re/250802_160920.jpg')
+		image28=Image.open('./data250802re/250802_162919.jpg')  
+		image29=Image.open('./data250802re/250802_162920.jpg')
 		name01='250802_160854.jpg','250802_160856.jpg','250802_160905.jpg','250802_160919.jpg','250802_162920.jpg'
 		
 
