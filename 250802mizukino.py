@@ -792,9 +792,13 @@ def step2one():
 	time.sleep(0.1)
 
 #縦に分轄
-col1,col2=st.columns(2)
+col1,col2,col3=st.columns(3)
 
 with col1:
+	st.subheader('みずき野紹介')
+        
+	st.text('田んぼに囲まれたとても静かな街です｡')
+	st.write('250802みずき野祭り')    
 
 #submit_btn=st.form_submit_button (f'切替')
 	submit_btn0=st.button('切替0')
@@ -803,7 +807,7 @@ with col1:
 	submit_btn6=st.button('切替6')
 	submit_btn8=st.button('切替8')
 	
-	submit_btn0=st.button('切替10')
+	submit_btn10=st.button('切替10')
 	submit_btn2=st.button('切替12')
 	submit_btn4=st.button('切替14')
 	submit_btn6=st.button('切替16')
@@ -853,18 +857,14 @@ with col1:
 
 
 
-
+with col2:
 	step1one()
 		#関数 def =することで実行される
 	st.text(f'ﾌﾟﾛｾｽ1 {name00}')     
 	st.text(f'ﾌﾟﾛｾｽ1 {name01}')
          
 
-with col2:
-	st.subheader('みずき野紹介')
-        
-	st.text('田んぼに囲まれたとても静かな街です｡')
-	st.write('250802みずき野祭り')    
+with col3:
 	step2one()  
 	#関数 def =することで実行される
 	st.text(f'ﾌﾟﾛｾｽ2 {name20}')
