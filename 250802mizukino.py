@@ -808,9 +808,9 @@ with col1:
 	submit_btn8=st.button('切替8')
 	
 	submit_btn10=st.button('切替10')
-	submit_btn2=st.button('切替12')
-	submit_btn4=st.button('切替14')
-	submit_btn6=st.button('切替16')
+	submit_btn12=st.button('切替12')
+	submit_btn14=st.button('切替14')
+	submit_btn16=st.button('切替16')
 	
 	if submit_btn0 :
 		n=0
