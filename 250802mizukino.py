@@ -745,7 +745,7 @@ def step2one():
 		image27=Image.open('./data250802re/250802_193746.jpg')
 		image28=Image.open('./data250802re/250802_193751.jpg')
 		image29=Image.open('./data250802re/250802_193806.jpg')
-		name20='250802_193718.jpg','250802_193719.jpg','250802_193746.jpg','250802_193751.jpg','250802_193806.jpg'
+		name21='250802_193718.jpg','250802_193719.jpg','250802_193746.jpg','250802_193751.jpg','250802_193806.jpg'
 
 	if n2c==16:
 		image20=Image.open('./data250802re/250802_194244.jpg')
