@@ -75,6 +75,7 @@ def step1one():
 		image2=Image.open('./data250802re/250802_160843.jpg') 
 		image3=Image.open('./data250802re/250802_160845.jpg')
 		image4=Image.open('./data250802re/250802_160851.jpg')     
+		
 		name00='250802_160838.jpg','250802_160840.jpg','250802_160843.jpg','250802_160845.jpg','250802_160851.jpg'
 		
 
