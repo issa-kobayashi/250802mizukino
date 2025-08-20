@@ -52,13 +52,13 @@ def step1one():
 	global name21
 	
 	if n==0 :
-		image0=Image.open('./data250802re/'250802_160649.jpg') 
-		image1=Image.open('./data250802re/'250802_160653.jpg') 
-		image2=Image.open('./data250802re/'250802_160758.jpg') 
-		image3=Image.open('./data250802re/'250802_160801.jpg') 
-		image4=Image.open('./data250802re/'250802_160804.jpg')
-		name00='250802_160649.jpg','250802_160653.jpg','250802_160758.jpg','250802_160801.jpg',250802_160804.jpg
 
+		image0=Image.open('./data250802re/250802_160649.jpg')
+		image1=Image.open('./data250802re/250802_160653.jpg')
+		image2=Image.open('./data250802re/250802_160758.jpg')
+		image3=Image.open('./data250802re/250802_160801.jpg')
+		image4=Image.open('./data250802re/250802_160804.jpg')
+		name00='250802_160649.jpg','250802_160653.jpg','250802_160758.jpg','250802_160801.jpg',250802_160804.jpg
 		     
 	
 		image5=Image.open('./data250802re/250802_160809.jpg') 
